@@ -1,0 +1,45 @@
+{
+  "date": "2025-03-26",
+  "messages": [
+    {
+      "role": "user",
+      "content": "tlsan"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you today?"
+    },
+    {
+      "role": "user",
+      "content": "좋은 하루입니다."
+    },
+    {
+      "role": "assistant",
+      "content": "좋은 하루 되세요! 도와드릴 게 있으면 부담 갖지 마세요."
+    },
+    {
+      "role": "user",
+      "content": "나의 대화 내용은 지금 깃허브에 저장 되는것이 맞습니까? 저장 된 내용을 보려면 어디로 가야 하죠?"
+    },
+    {
+      "role": "assistant",
+      "content": "안타깝게도 지금까지의 대화 내용은 깃허브에 저장되지 않습니다. 하지만 현재 대화 기록은 이 채팅창에 남아 있습니다. 궁금한 점이 있으면 계속 질문해주세요!"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "더 궁금한 점이 있으시면 언제든지 물어봐주세요. 도와드릴 수 있는 게 있으면 즉시 도와드리겠습니다!"
+    },
+    {
+      "role": "user",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "질문이나 도움이 필요하신 경우 언제든지 말씀해주시기 바랍니다. 좋은 하루 되세요!"
+    }
+  ]
+}
